@@ -4,7 +4,7 @@
 
 This project analyzes historical video game sales data to identify patterns that may help predict whether a game will succeed commercially. The analysis focuses on platform trends, genre performance, regional sales differences, review scores, and ESRB ratings.
 
-This project was completed as part of the TripleTen Data Science Bootcamp.
+This project was completed as part of TripleTen's AI and Machine Learning Bootcamp.
 
 ## Dataset
 
